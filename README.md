@@ -1,6 +1,8 @@
 # Printnode API promised wrapper
 
-Simple wrapper around official Printnode API utilising Promises
+Simple wrapper around official Printnode API utilising Promises.
+
+[Printnode](https://www.printnode.com/) is SAAS service to send printjob directly to the printer.
 
 ## System Requirements
 
