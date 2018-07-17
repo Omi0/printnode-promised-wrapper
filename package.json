@@ -1,0 +1,18 @@
+{
+  "name": "@omio/printnode-promised-wrapper",
+  "description": "Simple wrapper around official Printnode API utilising Promises",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Omi0/printnode-promised-wrapper.git"
+  },
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.0.0",
+    "request": "^2.47.0"
+  },
+  "devDependencies": {
+    "@types/bluebird": "^3.0.0",
+    "@types/request": "^2.47.0"
+  }
+}
