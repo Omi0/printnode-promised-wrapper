@@ -52,6 +52,6 @@ getPrinters()
   console.log(printjob);
 })
 .catch(err => {
-  console.log(printjob);
+  console.log(err);
 })
 ```
